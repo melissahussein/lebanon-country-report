@@ -12,8 +12,8 @@ An html file is provided to plot the forced directed graph. You can change the j
   - A matrix portraying internal routing
  
 Versions used for the imported python librairies:
-matplotlib 3.0.3
-plotly 4.5.4
-networkx 2.2
-requests 2.23.0
+- matplotlib 3.0.3
+- plotly 4.5.4
+- networkx 2.2
+- requests 2.23.0
  
