@@ -5,9 +5,10 @@ These graphs include:
   - The same graph but only highlighting the ASes with more than 5000 ipV4 addresses.
   - A pie chart describing the distibution of IPv4 addresses and IPv6 prefixes amongst lebaneses ASes
   - A Sankey diagram portraying an external view of Lebanon
- The previously mentioned graphs are available to view and download on the following link :
- https://drive.google.com/open?id=1hfLHoNvJTwbKEyKftKvIBR9FKAFN3-lN
+The previously mentioned graphs are available to view and download on the following link :
+https://drive.google.com/open?id=1hfLHoNvJTwbKEyKftKvIBR9FKAFN3-lN
   - Another AS graph color coded by sectors of activity
+An html file is provided to plot the forced directed graph. You can change the json folder attribute in the html file  (Clustered_Graph_2020) to plot the graph for a specific year (from 2015 to 2020). 
   - A matrix portraying internal routing
  
 
