@@ -1,8 +1,8 @@
 # lebanon-country-report
-This repository contains the Python code and the associated files that allowed us to draw the different graphs and diagram used for the sake of the Lebanon Country Report.
+This repository contains the Python code and the associated files that allowed us to draw the different graphs and diagrams used for the sake of the Lebanon Country Report.
 These graphs include:
   - An interactive graph portraying the different lebanese autonomous systems and their evolution from 2015 to 2020 with the local and         international connections
-  - The same graph but only highlighting the ASes with more than 5000 ipV4 addresses
+  - The same graph but only highlighting the ASes with more than 5000 IPv4 addresses
   - A pie chart describing the distibution of IPv4 addresses and IPv6 prefixes amongst lebaneses ASes
   - A Sankey diagram portraying an external view of Lebanon
 The previously mentioned graphs are available to view and download on the following link :
