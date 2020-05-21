@@ -11,5 +11,9 @@ https://drive.google.com/open?id=1hfLHoNvJTwbKEyKftKvIBR9FKAFN3-lN
 An html file is provided to plot the forced directed graph. You can change the json folder attribute in the html file  (Clustered_Graph_2020) to plot the graph for a specific year (from 2015 to 2020). 
   - A matrix portraying internal routing
  
-
+Versions used for the imported python librairies:
+matplotlib 3.0.3
+plotly 4.5.4
+networkx 2.2
+requests 2.23.0
  
